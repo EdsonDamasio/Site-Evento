@@ -1,18 +1,19 @@
 body {  
     background-color: cornflowerblue
     margin: 0px;
-    
+
+}
     
 
 h1 {
     text-align: center;
-    color: aqua
+    color: aqua;
     font-family: fantasy;
     font-size: 3em;
 }
 
 nav{
-    background-color: gray
+    background-color: gray;
     padding: 10px;
     text-align: center;
 }
@@ -32,18 +33,18 @@ nav a:hover{
 h2 {
     font-family: fantasy;
     background-color: blue;
-    color: black
+    color: black;
 }
 p{
     font-size: 20px;
-    background-color: cornflowerblue
+    background-color: cornflowerblue;
 }
 
 h3 {
     background-color: blue;
 font-family: fantasy;
-color: black
+color: black;}
 
-#shibatonsio{
+#shiba{
     border-radius:50%; 
 }
