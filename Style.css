@@ -46,3 +46,10 @@ color: black;}
 #shiba{
     border-radius:50%; 
 }
+
+footer h3{
+    width: 100%;
+    height: auto;
+margin-bottom: 0;
+    text-align: center;
+}
